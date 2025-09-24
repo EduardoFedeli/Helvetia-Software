@@ -1,18 +1,18 @@
 # Helvetia-Software
 
-Login: 
+## Login de Acesso
 
--- apartment manager --
-USER: Sindico
-PASS: 123456
-ROLE: Sindico
+### 👤 Síndico
+- **Usuário:** `Sindico`  
+- **Senha:** `123456`  
+- **Papel:** Síndico  
 
--- resident --
-USER: Morador
-PASS: 123456
-ROLE: Morador
+### 🏠 Morador
+- **Usuário:** `Morador`  
+- **Senha:** `123456`  
+- **Papel:** Morador  
 
--- porter --
-USER: Porteiro
-PASS: 123456
-ROLE: Porteiro
+### 🛡️ Porteiro
+- **Usuário:** `Porteiro`  
+- **Senha:** `123456`  
+- **Papel:** Porteiro  
